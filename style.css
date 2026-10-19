@@ -1,0 +1,9 @@
+body { font-family: sans-serif; background: #f0f2f5; display: flex; justify-content: center; padding: 20px; }
+.container { background: white; padding: 2rem; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); width: 100%; max-width: 400px; }
+.input-group { margin-bottom: 15px; }
+textarea, input { width: 100%; padding: 8px; margin-top: 5px; box-sizing: border-box; }
+button { width: 100%; padding: 10px; background: #ff4757; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px; }
+button:hover { background: #ff6b81; }
+#resultArea { margin-top: 20px; text-align: center; border-top: 2px solid #eee; padding-top: 15px; }
+#winner { font-size: 24px; font-weight: bold; color: #2ed573; margin-top: 10px; }
+.hidden { display: none; }
